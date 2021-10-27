@@ -1,4 +1,4 @@
-# 新的面板 [x-ui](https://github.com/sprov065/x-ui) 正在开发中，支持 v2-ui 的所有功能，解决了 v2-ui 存在的一些问题，并增加了总流量限制功能，欢迎测试使用。待 x-ui 稳定后，v2-ui 将不再提供更新
+# 新的面板 [x-ui](https://github.com/anwugos/x-ui) 正在开发中，支持 v2-ui 的所有功能，解决了 v2-ui 存在的一些问题，并增加了总流量限制功能，欢迎测试使用。待 x-ui 稳定后，v2-ui 将不再提供更新
 
 中文 | [English](README.en.md)
 
@@ -47,7 +47,7 @@ bash <(curl -Ls https://blog.sprov.xyz/v2-ui.sh)
 无需手动安装 v2ray，v2-ui 自带官方 xray 内核
 
 ### 手动安装 v2-ui
-https://github.com/sprov065/v2-ui/releases
+https://github.com/anwugos/v2-ui/releases
 
 从该地址中下载最新的 v2-ui-linux.tar.gz 文件，并上传至 VPS 的 /root/ 目录下。若你上传至其它的目录，则将第一行命令的 cd /root/ 改为 cd (实际的目录)，不用包括文件名。
 ```
